@@ -1,6 +1,6 @@
-from app.symbolic_math import solve_math_problem
-from app.visual_parser import extract_text_from_image, answer_visual_question
-from app.symbolic_logic import SymbolicLogicReasoner
+from symbolic_math import solve_math_problem
+from visual_parser import extract_text_from_image, answer_visual_question
+from symbolic_logic import SymbolicLogicReasoner
 
 
 def run_math_mode():
